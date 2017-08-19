@@ -40,7 +40,7 @@ First, you have to build up your Vue.js components and merge them with Sails.js.
 
 ### Development
 
-`cd backend && sails lift` and then `cd ../frontend && npm run dev`. After that open 
+`cd backend && sails lift` and then `cd ../frontend && npm run dev`. After that, open 
 [localhost:8080](http://localhost:8080) in your browser. Make sure that you start both servers.
 
 ## Commands
@@ -132,12 +132,6 @@ HTTP client for Vue.js.
 ### [vue-router](https://github.com/vuejs/vue-router)
 
 Router for the frontend.
-
-## To do
-
-- File uploads
-- upgrading to Sails.js 1.0
-- real time frontend and backend validation
 
 ## Code style
 
